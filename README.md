@@ -31,12 +31,11 @@ I'm an AI and Business student interested in the intersection of artificial inte
 ## Projects
 
 ### Project One
-Description + link
+
 
 ### Project Two
-Description + link
 
-*(Replace with real descriptions and links once available.)*
+
 
 ## Skills
 
@@ -48,4 +47,4 @@ Description + link
 ## Author
 
 Vibhor
-[GitHub](https://github.com/vibhor0101) · [LinkedIn](https://linkedin.com/in/vibhor) · vibhors1711@gmail.com
+[GitHub](https://github.com/vibhor0101) · [LinkedIn](https://linkedin.com/in) · vibhors1711@gmail.com
